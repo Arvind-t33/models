@@ -2,7 +2,8 @@
 
 ## To replicate:
 1. Download .ipynb file
-2. Upload to Google Collab 
+2. Upload to Google Collab
+3. Run the kernels
 
 ## Logistic Regression
 
