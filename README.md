@@ -1,5 +1,9 @@
 # Comparing 10 different machine learning models to fidn the best one for breast cancer classification
 
+## To replicate:
+1. Download .ipynb file
+2. Upload to Google Collab 
+
 ## Logistic Regression
 
 A machine learning model that is good for categorizing numerical data. 
