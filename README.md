@@ -21,8 +21,8 @@ Classification Report:
            1       0.99      0.98      0.99       108
 
     accuracy                           0.98       171
-   macro avg       0.98      0.98      0.98       171
-weighted avg       0.98      0.98      0.98       171
+    macro avg       0.98      0.98      0.98       171
+    weighted avg       0.98      0.98      0.98       171
 
 AUC Score: 0.9980893592004703
 
